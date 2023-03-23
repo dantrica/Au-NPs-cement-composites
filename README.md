@@ -1,7 +1,7 @@
 # Au-NPs-cement-composites
 Four python modules are presented to analyze measured data from mechanical and electrical characterizations.
 
-Module.py instance the class pro_data that al
+Module.py instance the classes pro_data and semiCircleEISModel to use their methods. pro_data, simultaneously call the JSON object where the data files were organized by experimental setup and its path name.
 
 20210128 update python 2 code to python 3 code 
 We change dictionary.has_key('key'): for 'key' in dictionary:
